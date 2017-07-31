@@ -1,0 +1,35 @@
+{
+  "name": "percentile-calculator",
+  "version": "1.0.0",
+  "description": "Calculator computes Percentiles and Quartiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec _tests_"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "percentile",
+    "quartile",
+    "rank",
+    "statistic",
+    "statistics",
+    "quartile",
+    "perceniles"
+  ],
+  "author": {
+    "name": "Artur Basak",
+    "email": "artur.basak@instinctools.ru"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "3.4.2"
+  }
+}
