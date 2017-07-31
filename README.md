@@ -1,6 +1,8 @@
 # percentile-calculator
 > utility for statistics
 
+[![npm version](https://img.shields.io/npm/v/percentile-calculator.svg?style=flat-square)](https://npmjs.com/package/percentile-calculator)
+
 ## Percentile
 From Wikipedia, the free encyclopedia
 
